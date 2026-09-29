@@ -144,6 +144,7 @@ export {
   type GuardTelemetryGapReason,
   type GuardTelemetryWatchParams,
   type PollResult,
+  type PollSleep,
   type TelemetryJitter,
 } from "./telemetry.ts";
 
